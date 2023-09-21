@@ -61,3 +61,10 @@ export const XXXlarge: Story = {
     label: "Button",
   },
 };
+
+export const XXXXLarge: Story = {
+  args: {
+    size: "xxxx",
+    label: "Button",
+  },
+};

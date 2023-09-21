@@ -13,7 +13,7 @@ interface ButtonProps {
   /**
    * How large should the button be?
    */
-  size?: 'small' | 'medium' | 'large' | 'xlarge' | 'xxx';
+  size?: 'small' | 'medium' | 'large' | 'xlarge' | 'xxx' | 'xxxx';
   /**
    * Button contents
    */
